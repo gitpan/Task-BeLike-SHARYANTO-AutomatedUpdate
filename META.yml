@@ -1,0 +1,26 @@
+---
+abstract: "SHARYANTO's modules that can be updated automatically by the author with a script"
+author:
+  - 'Steven Haryanto <stevenharyanto@gmail.com>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300006, CPAN::Meta::Converter version 2.113640'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-BeLike-SHARYANTO-AutomatedUpdate
+requires:
+  Business::BankCard::Indonesia: 0
+  Business::BankList::Indonesia: 0
+  Locale::ID::Locality: 0
+  Locale::ID::Province: 0
+  Task::BeLike::SHARYANTO::Authored: 0
+  Task::BeLike::SHARYANTO::Favorited: 0
+resources:
+  homepage: http://metacpan.org/release/Task-BeLike-SHARYANTO-AutomatedUpdate
+  repository: http://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-AutomatedUpdate
+version: 0.01

@@ -1,0 +1,31 @@
+NAME
+    Task::BeLike::SHARYANTO::AutomatedUpdate - SHARYANTO's modules that can
+    be updated automatically by the author with a script
+
+VERSION
+    version 0.01
+
+DESCRIPTION
+    List of all SHARYANTO's modules that can be updated automatically by the
+    author with a script.
+
+    This includes all/most modules which use <http://gudangdata.org> as
+    source.
+
+TASK CONTENTS
+  Included modules
+   Business::BankCard::Indonesia
+   Business::BankList::Indonesia
+   Locale::ID::Locality
+   Locale::ID::Province
+   Task::BeLike::SHARYANTO::Authored
+   Task::BeLike::SHARYANTO::Favorited
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2012 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
